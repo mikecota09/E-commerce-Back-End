@@ -21,11 +21,11 @@ This project is the back end for an e-commerce site. The application uses Expres
 1. Clone the GitHub repository
 2. Open Git Bash or the Terminal
 3. Navigate to the directory where you would like to clone the repository to
-4. Type the command "git clone" and paste the link to the repository
+4. Type the command `git clone` and paste the link to the repository
 5. Open your code editor and open the repository
 6. Open the terminal window in your code editor
 7. Make sure you are in the correct folder in the terminal window
-8. Type the command "npm install" in the terminal and press enter to install the dependency packages that are required
+8. Type the command `npm install` in the terminal and press enter to install the dependency packages that are required
 
 Ensure the following packages were install correctly
 * dotenv
@@ -44,4 +44,6 @@ Ensure the following packages were install correctly
 The application allows users to view, add, edit, and delete categories, products, and tags
 
 ## Video Walkthrough
-[Link to the walkthrough video]()
+[Link to the MySQL walkthrough video]()
+[Link to the video walkthrough for API routes]()
+[Link to the Insomnia walkthrough video]()
