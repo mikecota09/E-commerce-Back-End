@@ -46,6 +46,6 @@ The application allows users to view, add, edit, and delete categories, products
 ## Video Walkthrough
 [Link to the MySQL walkthrough video](https://drive.google.com/file/d/1EZjg7v39-ehyVxl63h6Gk8yYCa57V8CJ/view)
 
-[Link to the video walkthrough for API routes]()
+[Link to the video walkthrough for API routes](https://drive.google.com/file/d/1R2CD18VtOz74syWVaMH8GZsGHfS5Rd_7/view)
 
 [Link to the Insomnia walkthrough video](https://drive.google.com/file/d/17nfOmr6Chs1pghTLMJwtnJyNhy-OjLKC/view)
