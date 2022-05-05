@@ -44,6 +44,6 @@ Ensure the following packages were install correctly
 The application allows users to view, add, edit, and delete categories, products, and tags
 
 ## Video Walkthrough
-[Link to the MySQL walkthrough video]()
+[Link to the MySQL walkthrough video](https://drive.google.com/file/d/1EZjg7v39-ehyVxl63h6Gk8yYCa57V8CJ/view)
 [Link to the video walkthrough for API routes]()
 [Link to the Insomnia walkthrough video]()
